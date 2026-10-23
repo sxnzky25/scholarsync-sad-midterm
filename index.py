@@ -1,0 +1,5 @@
+print("==============================")
+print("       SCHOLARSYNC")
+print("   STUDENT PROFILE PROGRAM")
+print("==============================")
+print("Welcome to ScholarSync!")
